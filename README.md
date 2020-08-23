@@ -1,4 +1,4 @@
-# Blue Linux Mint: Grub theme
+# Blue Linux Mint - Grub theme
 
 ### Latest Screenshot
 

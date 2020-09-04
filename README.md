@@ -8,7 +8,7 @@
 
 ### Included Icons ###
 
-| Operating System - OS Logo															| Operating System - OS Logo															| Operating System - OS Logo																| Operating System - OS Logo																	|
+| Operating System & Logo																| Operating System & Logo																| Operating System & Logo																	| Operating System & Logo																		|
 |:---																					|:---																					|:---																						|:---																							|
 | Alt Linux <img src="/blue-linux-mint/icons/altlinux.png" width="64" height="64">		| FreeBSD <img src="/blue-linux-mint/icons/freebsd.png" width="64" height="64">			| OpenMandrivia <img src="/blue-linux-mint/icons/openmandriva.png" width="64" height="64">	| Ubuntu <img src="/blue-linux-mint/icons/ubuntu.png" width="64" height="64">					|
 | Android <img src="/blue-linux-mint/icons/android.png" width="64" height="64">			| Frugalware <img src="/blue-linux-mint/icons/frugalware.png" width="64" height="64">	| OpenSuse <img src="/blue-linux-mint/icons/opensuse.png" width="64" height="64">			| Ubuntu Gnome <img src="/blue-linux-mint/icons/ubuntugnome.png" width="64" height="64">		|

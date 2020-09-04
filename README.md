@@ -1,38 +1,49 @@
-# Blue Linux Mint - Grub theme
+# Blue Linux Mint - Grub theme #  
+### Designed for 1920x1080 Resolution ###  
+### Created by @texxasrulez ###  
 
-### Latest Screenshot
+### Latest Screenshot ###
 
 ![ScreenShot](screenshot.png)
 
-### Included Icons
+### Included Icons ###
 
-|												|												|													|											|
-|:---											|:---											|:---												|:---										|
-| ![Alt Linux](blue-linux-mint/icons/altlinux.png=32x32)	| ![FreeBSD](blue-linux-mint/icons/freebsd.png =32x32)	| ![Mandrivia](blue-linux-mint/icons/mandriva.png =32x32)	  | ![RemixOS](blue-linux-mint/icons/remixos.png =32x32) |
-| ![Android](blue-linux-mint/icons/android.png =32x32)	| ![Frugalware](blue-linux-mint/icons/frugalware.png =32x32)	| ![Manjaro](blue-linux-mint/icons/manjaro.png =32x32)	  | ![Rosa](blue-linux-mint/icons/rosa.png =32x32) |
-| ![Antergos](blue-linux-mint/icons/antergos.png =32x32)	| ![Gentoo](blue-linux-mint/icons/gentoo.png =32x32)	| ![Neon](blue-linux-mint/icons/neon.png =32x32)	| ![Sabayon](blue-linux-mint/icons/sabayon.png =32x32) |
-| ![Apricity](blue-linux-mint/icons/apricity.png =32x32)	| ![GhostBSD](blue-linux-mint/icons/ghostbsd.png =32x32)	| ![Network](blue-linux-mint/icons/network.png =32x32)	| ![Slackware](blue-linux-mint/icons/slackware.png =32x32) |
-| ![Arch Linux](blue-linux-mint/icons/arch.png =32x32)	| ![Gummi Boot](blue-linux-mint/icons/gummiboot.png =32x32)	| ![OpenBSD](blue-linux-mint/icons/openbsd.png =32x32)	| ![Steam](blue-linux-mint/icons/steam.png =32x32) |
-| ![CentOS](blue-linux-mint/icons/cent.png =32x32)	| ![Haiku](blue-linux-mint/icons/haiku.png =32x32)	| ![OpenMandrivia](blue-linux-mint/icons/openmandriva.png =32x32)  | ![Submenu Icon](blue-linux-mint/icons/submenu.png =32x32) |
-| ![Chakra](blue-linux-mint/icons/chakra.png =32x32)	| ![Hardware Test](blue-linux-mint/icons/hwtest.png =32x32)	| ![OpenSuse](blue-linux-mint/icons/opensuse.png =32x32)	| ![Suse](blue-linux-mint/icons/suse.png =32x32) |
-| ![Chrom](blue-linux-mint/icons/chrome.png =32x32)	| ![Kali Linux](blue-linux-mint/icons/kali.png =32x32)	| ![PcBSD](blue-linux-mint/icons/pcbsd.png =32x32)	| ![Tails Linux](blue-linux-mint/icons/tails.png =32x32) |
-| ![Clover](blue-linux-mint/icons/clover.png =32x32)	| ![Kubuntu](blue-linux-mint/icons/kubuntu.png =32x32)	| ![PCLinuxOS](blue-linux-mint/icons/pclinuxos.png =32x32)	| ![Ubuntu Gnome Alt](blue-linux-mint/icons/ubuntugnome_alt.png =32x32) |
-| ![Core](blue-linux-mint/icons/core.png =32x32)	| ![LegacyOS](blue-linux-mint/icons/legacy.png =32x32)	| ![PhoenixOS](blue-linux-mint/icons/phoenixos.png =32x32)	| ![Ubuntu Gnome](blue-linux-mint/icons/ubuntugnome.png =32x32) |
-| ![Crunchbang](blue-linux-mint/icons/crunchbang.png =32x32)	| ![Linux Mint](blue-linux-mint/icons/linuxmint.png =32x32)	| ![Ubuntu](blue-linux-mint/icons/ubuntu.png =32x32) |
-| ![Debian](blue-linux-mint/icons/debian.png =32x32)	| ![Linux](blue-linux-mint/icons/linux.png =32x32)	| ![UEFI](blue-linux-mint/icons/uefi.png =32x32)	| ![Unknown](blue-linux-mint/icons/unknown.png =32x32) |
-| ![Deepin](blue-linux-mint/icons/deepin.png =32x32)	| ![Lubuntu](blue-linux-mint/icons/lubuntu.png =32x32)	| ![Puppy Linux](blue-linux-mint/icons/puppy.png =32x32)	| ![Windows](blue-linux-mint/icons/windows.png =32x32) |
-| ![Elementary](blue-linux-mint/icons/elementary.png =32x32)	| ![Mac Alt](blue-linux-mint/icons/mac_alt.png =32x32)	| ![RedHat](blue-linux-mint/icons/redhat.png =32x32)	| ![Xubuntu](blue-linux-mint/icons/xubuntu.png =32x32) |
-| ![Fatdog](blue-linux-mint/icons/fatdog.png =32x32)	| ![Mac](blue-linux-mint/icons/mac.png =32x32)	| ![Refind](blue-linux-mint/icons/refind.png =32x32) |
-| ![Fedora](blue-linux-mint/icons/fedora.png =32x32)	| ![Mageia](blue-linux-mint/icons/mageia.png =32x32)	| ![Refit](blue-linux-mint/icons/refit.png =32x32)	| ![Zorin](blue-linux-mint/icons/zorin.png =32x32) |
+| Operating System - OS Logo															| Operating System - OS Logo															| Operating System - OS Logo																| Operating System - OS Logo																	|
+|:---																					|:---																					|:---																						|:---																							|
+| Alt Linux <img src="/blue-linux-mint/icons/altlinux.png" width="64" height="64">		| FreeBSD <img src="/blue-linux-mint/icons/freebsd.png" width="64" height="64">			| OpenMandrivia <img src="/blue-linux-mint/icons/openmandriva.png" width="64" height="64">	| Ubuntu <img src="/blue-linux-mint/icons/ubuntu.png" width="64" height="64">					|
+| Android <img src="/blue-linux-mint/icons/android.png" width="64" height="64">			| Frugalware <img src="/blue-linux-mint/icons/frugalware.png" width="64" height="64">	| OpenSuse <img src="/blue-linux-mint/icons/opensuse.png" width="64" height="64">			| Ubuntu Gnome <img src="/blue-linux-mint/icons/ubuntugnome.png" width="64" height="64">		|
+| Antergos <img src="/blue-linux-mint/icons/antergos.png" width="64" height="64">		| Gentoo <img src="/blue-linux-mint/icons/gentoo.png" width="64" height="64">			| PC-BSD <img src="/blue-linux-mint/icons/pcbsd.png" width="64" height="64">				| Ubuntu Gnome Alt <img src="/blue-linux-mint/icons/ubuntugnome_alt.png" width="64" height="64">|
+| Antix <img src="/blue-linux-mint/icons/antix.png" width="64" height="64">				| GhostBSD <img src="/blue-linux-mint/icons/ghostbsd.png" width="64" height="64"> 		| PCLinuxOS <img src="/blue-linux-mint/icons/pclinuxos.png" width="64" height="64">			| Ubuntu Kylin <img src="/blue-linux-mint/icons/ubuntu-kylin.png" width="64" height="64">		|
+| Apricity <img src="/blue-linux-mint/icons/apricity.png" width="64" height="64">		| Haiku <img src="/blue-linux-mint/icons/haiku.png" width="64" height="64">				| PhoenixOS <img src="/blue-linux-mint/icons/phoenixos.png" width="64" height="64"> 		| Ubuntu Mate <img src="/blue-linux-mint/icons/ubuntu-mate.png" width="64" height="64">			|
+| Arch Linux <img src="/blue-linux-mint/icons/arch.png" width="64" height="64">			| Hardware Test <img src="/blue-linux-mint/icons/hwtest.png" width="64" height="64">	| Pop OS <img src="/blue-linux-mint/icons/pop_os.png" width="64" height="64"> 				| UEFI <img src="/blue-linux-mint/icons/uefi.png" width="64" height="64">						|
+| Arco Linux <img src="/blue-linux-mint/icons/arcolinux.png" width="64" height="64">	| Kali Linux <img src="/blue-linux-mint/icons/kali.png" width="64" height="64">			| Puppy Linux <img src="/blue-linux-mint/icons/puppy.png" width="64" height="64">			| Unknown <img src="/blue-linux-mint/icons/unknown.png" width="64" height="64">					|
+| Boot CD <img src="/blue-linux-mint/icons/bootcd.png" width="64" height="64">			| Korora <img src="/blue-linux-mint/icons/korora.png" width="64" height="64">			| RedHat <img src="/blue-linux-mint/icons/redhat.png" width="64" height="64">				| Windows <img src="/blue-linux-mint/icons/windows.png" width="64" height="64">					|
+| CentOS <img src="/blue-linux-mint/icons/cent.png" width="64" height="64">				| Kubuntu <img src="/blue-linux-mint/icons/kubuntu.png" width="64" height="64">			| Refind <img src="/blue-linux-mint/icons/refind.png" width="64" height="64">				| Xubuntu <img src="/blue-linux-mint/icons/xubuntu.png" width="64" height="64">					|
+| Chakra <img src="/blue-linux-mint/icons/chakra.png" width="64" height="64">			| Legacy <img src="/blue-linux-mint/icons/legacy.png" width="64" height="64">			| RemixOS <img src="/blue-linux-mint/icons/remixos.png" width="64" height="64">				| Zorin <img src="/blue-linux-mint/icons/zorin.png" width="64" height="64">						|
+| Chrome <img src="/blue-linux-mint/icons/chrome.png" width="64" height="64">			| Linux <img src="/blue-linux-mint/icons/linux.png" width="64" height="64"> 			| System Restart <img src="/blue-linux-mint/icons/restart.png" width="64" height="64">		|																								|
+| Clover <img src="/blue-linux-mint/icons/clover.png" width="64" height="64">			| Linux Mint <img src="/blue-linux-mint/icons/linuxmint.png" width="64" height="64">	| Rosa <img src="/blue-linux-mint/icons/rosa.png" width="64" height="64">					|																								|
+| Core <img src="/blue-linux-mint/icons/core.png" width="64" height="64">				| Lubuntu <img src="/blue-linux-mint/icons/lubuntu.png" width="64" height="64">			| Sabayon <img src="/blue-linux-mint/icons/sabayon.png" width="64" height="64">				|																								|
+| Crunchbang <img src="/blue-linux-mint/icons/crunchbang.png" width="64" height="64">	| Mac <img src="/blue-linux-mint/icons/mac.png" width="64" height="64">					| System Shutdown <img src="/blue-linux-mint/icons/shutdown.png" width="64" height="64">	|																								|
+| Debian <img src="/blue-linux-mint/icons/debian.png" width="64" height="64">			| Mac Alt <img src="/blue-linux-mint/icons/mac_alt.png" width="64" height="64">			| Siduction <img src="/blue-linux-mint/icons/siduction.png" width="64" height="64">			|																								| 
+| Deepin <img src="/blue-linux-mint/icons/deepin.png" width="64" height="64">			| Mageia <img src="/blue-linux-mint/icons/mageia.png" width="64" height="64">			| Slackware <img src="/blue-linux-mint/icons/slackware.png" width="64" height="64">			|																								|
+| Edubuntu <img src="/blue-linux-mint/icons/edubuntu.png" width="64" height="64">		| Mandrivia <img src="/blue-linux-mint/icons/mandriva.png" width="64" height="64">		| Solus <img src="/blue-linux-mint/icons/solus.png" width="64" height="64">					|																								|
+| Elementary <img src="/blue-linux-mint/icons/elementary.png" width="64" height="64">	| Manjaro <img src="/blue-linux-mint/icons/manjaro.png" width="64" height="64">			| Sparky <img src="/blue-linux-mint/icons/sparky.png" width="64" height="64">				|																								|
+| Endeavour OS <img src="/blue-linux-mint/icons/endeavouros.png" width="64" height="64">| MXLinux <img src="/blue-linux-mint/icons/mxlinux.png" width="64" height="64">			| Steam <img src="/blue-linux-mint/icons/steam.png" width="64" height="64">					|																								|
+| Endless OS <img src="/blue-linux-mint/icons/endlessOS.png" width="64" height="64">	| Neon <img src="/blue-linux-mint/icons/neon.png" width="64" height="64">				| Submenu Icon <img src="/blue-linux-mint/icons/submenu.png" width="64" height="64">		|																								|
+| Fatdog <img src="/blue-linux-mint/icons/fatdog.png" width="64" height="64">			| Network <img src="/blue-linux-mint/icons/network.png" width="64" height="64">			| Suse <img src="/blue-linux-mint/icons/suse.png" width="64" height="64">					|																								|
+| Fedora <img src="/blue-linux-mint/icons/fedora.png" width="64" height="64">			| OpenBSD <img src="/blue-linux-mint/icons/openbsd.png" width="64" height="64">			| Tails Linux <img src="/blue-linux-mint/icons/tails.png" width="64" height="64">			|																								|
 
 **Installation**  
 
-Run `install.sh`
+**Installation**  
+run `sudo bash install.sh`
 
-This README is vague on purpose. Editing and changing grub could make your system unstable.  
-One should know what they are doing to use this theme.  
-**Use at your own risk!**  
+This will copy files to /usr/share/grub/themes, backup current grub config then it will edit grub.cfg and execute  
+update-grub / grub-mkconfig to make "Blue Linux Mint" your default Grub2 Bootloader Theme.  
 
+Upon next reboot, Blue Linux Mint will be your boot screen.  
+
+**USE at your OWN Risk!**  
 
 :moneybag: **Donations** :moneybag:
 

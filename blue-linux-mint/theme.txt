@@ -4,9 +4,9 @@
 
 # Global Property
 title-text: ""
-title-font: "DejaVu Sans Mono 22"
+title-font: "FreeSans Regular 18"
 title-color: "#ffffff"
-message-font: "DejaVu Sans Mono 22"
+message-font: "FreeSans Regular 18"
 message-color: "#ffffff"
 message-bg-color: "#f2f2f2"
 desktop-image: "background.png"
@@ -23,7 +23,7 @@ terminal-font: "DejaVu Sans Mono 22"
 		top = 25%
 		height = 50%
 		item_font = "FreeSans Regular 22"
-		selected_item_font = "FreeSans Regular 22"
+		selected_item_font = "FreeSans Bold 22"
 		item_color = "#ffffff"
 		selected_item_color = "#c3d4e1"
 		icon_width = 48
@@ -34,7 +34,7 @@ terminal-font: "DejaVu Sans Mono 22"
 		item_spacing = 10
 		selected_item_pixmap_style= "select_bkg_*.png"
 		menu_pixmap_style = "menu_bkg_*.png"
-		scrollbar = false
+		scrollbar = true
 		scrollbar_width = 10
 		scrollbar_thumb = "sb_thumb_*.png"
 		scrollbar_frame = "sb_frame_*.png"
@@ -48,12 +48,18 @@ terminal-font: "DejaVu Sans Mono 22"
 		file = "title.png"
 }
 
-+ image {
-		top = 75%
-		left = 29%
-		width = 800
-		height = 55
-		file = "grub-cmds.png"
+# Show GRUB Commands.
++ hbox {
+		top = 90%
+		left = 27%
+		+ label {text = "Up/Dn ↑ ↓: " font = "FreeSans Regular 22" color = "#ffffff" align = "left"}
+		+ label {text = "Selection Option     " font = "FreeSans Regular 20" color = "#1692d0" align = "left"}
+		+ label {text = "Enter: " font = "FreeSans Regular 22" color = "#ffffff" align = "left"}
+		+ label {text = "Boot Selection     " font = "FreeSans Regular 20" color = "#1692d0" align = "left"}
+		+ label {text = "e: " font = "FreeSans Regular 22" color = "#ffffff" align = "left"}
+		+ label {text = "Edit Selection     " font = "FreeSans Regular 20" color = "#1692d0" align = "left"}
+		+ label {text = "c: " font = "FreeSans Regular 22" color = "#ffffff" align = "left"}
+		+ label {text = "GRUB Commandline" font = "FreeSans Regular 20" color = "#1692d0" align = "left"}
 }
 
 # Show a styled horizontal progress bar
@@ -61,8 +67,8 @@ terminal-font: "DejaVu Sans Mono 22"
 		id = "__timeout__"
 		left = 27%
 		width = 46%
-		top = 85%
-		height = 40
+		top = 80%
+		height = 31
 		show_text = true
 		font = "DejaVu Sans Mono 8"
 		text_color = "117, 221, 253"

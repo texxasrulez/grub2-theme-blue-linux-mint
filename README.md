@@ -2,6 +2,13 @@
 ### Designed for 1920x1080 Resolution ###  
 ### Created by @texxasrulez ###  
 
+[![Github License](https://img.shields.io/github/license/texxasrulez/grub2-theme-blue-linux-mint?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/grub2-theme-blue-linux-mint?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/grub2-theme-blue-linux-mint?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/grub2-theme-blue-linux-mint?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/grub2-theme-blue-linux-mint?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/grub2-theme-blue-linux-mint/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+
 ### Latest Screenshot ###
 
 ![ScreenShot](screenshot.png)
